@@ -76,7 +76,7 @@ We welcome contributions from the community to enhance the model, add new featur
 6. We will review the pull request and merge it if it meets our guidelines and requirements.
 
 ## License
-📝
+
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [LICENSE.txt](LICENSE.txt).
