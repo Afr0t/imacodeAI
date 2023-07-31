@@ -1,4 +1,4 @@
-# ImacodeAI
+## ImacodeAI
 # 🚀 UI Code Generator with Deep Learning 🎨
 
 ![UI Code Generator](https://example.com/ui-code-generator.png)
@@ -38,48 +38,47 @@ The system utilizes deep learning techniques to analyze the images and produce t
 🚀
 1. Clone the repository:
 
-```bash
 git clone https://github.com/your-username/ui-code-generator.git
-Install the required dependencies:
-bash
-Copy code
+
+2. Install the required dependencies:
+
 cd ui-code-generator
 pip install -r requirements.txt
-Usage
+
+## Usage
 📋
+1. Run the application:
 
-Run the application:
-bash
-Copy code
 python app.py
-Open your web browser and go to http://localhost:5000.
 
-Upload a UI image that you want to convert to code.
+2. Open your web browser and go to http://localhost:5000.
 
-Select the programming language from the drop-down menu.
+3. Upload a UI image that you want to convert to code.
 
-Click on the "Generate Code" button to obtain the code corresponding to the uploaded image and selected language.
+4. Select the programming language from the drop-down menu.
 
-Contributing
+5. Click on the "Generate Code" button to obtain the code corresponding to the uploaded image and selected language.
+
+## Contributing
 🤝
 We welcome contributions from the community to enhance the model, add new features, and improve the user experience. To contribute to this project, follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch for your feature: git checkout -b feature-name.
+2. Create a new branch for your feature: `git checkout -b feature-name`.
 
-Make your changes and commit them: git commit -m 'Add some feature'.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
 
-Push the changes to your fork: git push origin feature-name.
+4. Push the changes to your fork: `git push origin feature-name`.
 
-Submit a pull request to the main branch of this repository.
+5. Submit a pull request to the `main` branch of this repository.
 
-We will review the pull request and merge it if it meets our guidelines and requirements.
+6. We will review the pull request and merge it if it meets our guidelines and requirements.
 
-License
+## License
 📝
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Contact
+## Contact
 📧
 If you have any questions, suggestions, or feedback, feel free to contact us at your-email@example.com or open an issue in this repository.
