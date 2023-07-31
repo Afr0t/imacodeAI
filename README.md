@@ -77,8 +77,8 @@ We welcome contributions from the community to enhance the model, add new featur
 
 ## License
 📝
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE) file for details.
 
 ## Contact
 📧
-If you have any questions, suggestions, or feedback, feel free to contact us at your-email@example.com or open an issue in this repository.
+If you have any questions, suggestions, or feedback, feel free to contact us at diengue.duvaln@gmail.com or open an issue in this repository.
