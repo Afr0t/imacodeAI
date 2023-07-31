@@ -77,7 +77,25 @@ We welcome contributions from the community to enhance the model, add new featur
 
 ## License
 📝
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit [LICENSE.txt](LICENSE.txt).
+
+**Contributions:** You are welcome to contribute to the iMacodeAI project by submitting pull requests or raising issues on the repository. By contributing your code, you agree to grant the project the right to use, modify, and distribute your contributions under the terms of this license.
+
+**Distribution and Use:**
+- You are free to use and modify the iMacodeAI software for personal and non-commercial purposes only.
+- Commercial use of the software, including selling or distributing the software for profit, is strictly prohibited without explicit written permission from [Your Name].
+
+**No Warranty:**
+This software is provided "as is" and without any warranty, express or implied. [Your Name] shall not be liable for any claim, damages, or other liability arising from the use of the software.
+
+**No Derivatives:**
+You may not create derivative works based on the iMacodeAI project, including modifying, adapting, or extending the software's functionality.
+
+For inquiries regarding licensing, commercial use, or any other matter, please contact [Your Email Address].
+
+By using, contributing to, or distributing this software, you agree to be bound by the terms of this license.
 
 ## Contact
 📧
