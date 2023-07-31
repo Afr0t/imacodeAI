@@ -85,15 +85,15 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-No
 
 **Distribution and Use:**
 - You are free to use and modify the iMacodeAI software for personal and non-commercial purposes only.
-- Commercial use of the software, including selling or distributing the software for profit, is strictly prohibited without explicit written permission from [Your Name].
+- Commercial use of the software, including selling or distributing the software for profit, is strictly prohibited without explicit written permission from Diengue Duval.
 
 **No Warranty:**
-This software is provided "as is" and without any warranty, express or implied. [Your Name] shall not be liable for any claim, damages, or other liability arising from the use of the software.
+This software is provided "as is" and without any warranty, express or implied. Diengue Duval shall not be liable for any claim, damages, or other liability arising from the use of the software.
 
 **No Derivatives:**
 You may not create derivative works based on the iMacodeAI project, including modifying, adapting, or extending the software's functionality.
 
-For inquiries regarding licensing, commercial use, or any other matter, please contact [Your Email Address].
+For inquiries regarding licensing, commercial use, or any other matter, please contact diengue.duvaln@gmail.com.
 
 By using, contributing to, or distributing this software, you agree to be bound by the terms of this license.
 
